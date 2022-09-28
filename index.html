@@ -195,43 +195,6 @@
       </svg>
     </section>
     <!-- Akhir Projects -->
-  
- <template>
-  <div id="app">
-    <div v-if="webShareApiSupported" class="refer-wrapper">
-      <p class="refer-text">
-        Share your referal code:
-        <span class="theCode">{{ referralCode }}</span> dengan teman dan hasilkan
-        Ketika mereka sign up
-      </p>
-      <button @click="shareNow">Share</button>
-    </div>
-  </div>
-</template>
-
-<script>
-export default {
-  name: "App",
-  data() {
-    return {
-      referralCode: "DNXZX",
-    };
-  },
-  computed: {
-    webShareApiSupported() {
-      return navigator.share;
-    },
-  },
-  methods: {
-    shareNow() {
-      navigator.share({
-        title: "Kode Refferal",
-        text: this.referralCode,
-      });
-    },
-  },
-};
-</script>
 
     <!-- Contact -->
     <section id="contact">
