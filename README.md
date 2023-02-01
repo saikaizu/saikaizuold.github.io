@@ -31,6 +31,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipratama&" alt="saipratama" /></p>
 
+
+<div align="center">
+<h1> See me code  </h1>
+<p align="center">
+<img height="200em"   src="code.gif" align="center" style="width: 5 height: 10" />
+<a href=#><img src="contributions.svg"></a>
+</p>
+
+
 [![Watch the video](https://img.youtube.com/vi/1dNkQoE76nY/maxresdefault.jpg)](https://youtu.be/1dNkQoE76nY)
 
 
