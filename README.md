@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Sai+and+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Sai and Welcome to my Profile! animated typed out" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm saipratama</h1>
-<h1 align="center">I'm student from Indonesia</h1>
+<h1 align="center">Hi 👋, I'm saipratama
+I'm student from Indonesia</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saipratama&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" /> </p>
 
