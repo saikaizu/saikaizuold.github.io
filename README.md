@@ -1,11 +1,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Sai+and+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Sai and Welcome to my Profile! animated typed out" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm saipratama</h1>
-<h3 align="center">I'm student from Indonesia</h3>
+<h1 align="center">I'm student from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saipratama&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" /> </p>
 
-<div align="left">
+<div align="center">
  🔭 I’m currently study on **Universitas Pamulang** </a> <a href="https://unpam.ac.id" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" alt="Universitas Pamulang" width="40" height="40"/> </a>
 
  🌱 I’m currently learning **PHP, CodeIgniter, MYSQL, LINUX, CPP**
